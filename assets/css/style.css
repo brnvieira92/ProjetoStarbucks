@@ -5,15 +5,6 @@ body{
     margin: 0;
 }
 
-.button{
-    display: inline-block;
-    padding: 10px 30px;
-    border: 2px solid #454545;
-    border-radius: 3px;
-    color: #454545;
-    text-decoration: none;
-}
-
 .button:hover{
     color: #fff;
     background-color: #454545;
@@ -123,6 +114,15 @@ h2{
     border: 6px solid #117050;
     border-radius: 50%;
     margin-right: 40px;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 30px;
+    border: 2px solid #454545;
+    border-radius: 3px;
+    color: #454545;
+    text-decoration: none;
 }
 
 .area1{
